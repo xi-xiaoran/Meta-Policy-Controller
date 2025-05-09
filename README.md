@@ -50,9 +50,3 @@ torch==1.13.1
 torchvision==0.14.1
 tqdm==4.66.1
 ```
-
-📬 Contact the Author
-If you have any questions, suggestions, or feedback, feel free to reach out:
-
-📧 Email: 2646594598@qq.com
-💬 (Please be patient... the author might be debugging or dreaming about NeurIPS deadlines 😅)
