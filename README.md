@@ -31,7 +31,7 @@ Our method enables EDL models to learn more effectively in dynamic environments,
 - 🛡️ Improved performance in out-of-distribution (OOD) settings and sample rejection tasks.
 
 For a visual overview, check out our method diagram:  
-📷 ![Overview](overview.png)
+📷 ![Overview]([overview.png](https://github.com/xi-xiaoran/Meta-Policy-Controller/blob/main/Pictures/overview.png))
 
 ---
 
