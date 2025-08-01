@@ -1,4 +1,4 @@
-# 🚀 Dynamic Evidence Control: Meta-Policy Learning for Adaptive Uncertainty Calibration
+# 🚀 Bi-level Meta-Policy Control for Dynamic Uncertainty Calibration in Evidential Deep Learning
 
 📄 Link to the paper: [Paper Address](#)
 
