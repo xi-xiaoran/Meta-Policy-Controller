@@ -1,6 +1,6 @@
 # 🚀 Bi-level Meta-Policy Control for Dynamic Uncertainty Calibration in Evidential Deep Learning
 
-📄 Link to the paper: [Paper Address](#)
+📄 **paper:** [https://arxiv.org/abs/2510.08938](https://arxiv.org/abs/2510.08938) 
 
 ---
 
